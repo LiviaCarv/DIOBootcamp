@@ -1,2 +1,2 @@
 # DIOBootcamp
-Desafio de projeto 1 - Git/ Github.
+## Repositório do Desafio de Projeto sobre Git/Github da DIO
